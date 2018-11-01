@@ -64,4 +64,8 @@
     <bookid>9787121297267</bookid>
     <booksname>SRE：Google 運維解密</booksname>
   </book>
+  <book>
+    <bookid>9789863792703</bookid>
+    <booksname>小而美版本的OpenStack：架設oVirt/KVM輕快方便私有雲</booksname>
+  </book>
 </books>
