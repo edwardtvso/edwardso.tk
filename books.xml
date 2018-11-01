@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <bookid>1</bookid>
+    <booksname>PHP如何讀取xml檔</booksname>
+  </book>
+  <book>
+    <bookid>9787115372413</bookid>
+    <booksname>ODPS权威指南:阿里大数据平台应用开发实践</booksname>
+  </book>
+  <book>
+    <bookid>9787121332319</bookid>
+    <booksname>阿里巴巴Java开发手册</booksname>
+  </book>
+  <book>
+    <bookid>9787121327681</bookid>
+    <booksname>逆流而上:阿里巴巴技术成长之路</booksname>
+  </book>
+  <book>
+    <bookid>9787121318696</bookid>
+    <booksname>机器学习在线：解析阿里云机器学习平台</booksname>
+  </book>
+  <book>
+    <bookid>9787121299339</bookid>
+    <booksname>技术之瞳 阿里巴巴技术笔试心得</booksname>
+  </book>
+  <book>
+    <bookid>9787121314384</bookid>
+    <booksname>大数据之路 阿里巴巴大数据实践</booksname>
+  </book>
+  <book>
+    <bookid>9787121282317</bookid>
+    <booksname>大数据是这样计算的 XLab实例入门</booksname>
+  </book>
+  <book>
+    <bookid>9787121232930</bookid>
+    <booksname>深入分析Java Web技术内幕</booksname>
+  </book>
+  <book>
+    <bookid>9787121309175</bookid>
+    <booksname>尽在双11--阿里巴巴技术演进与超越</booksname>
+  </book>
+  <book>
+    <bookid>9787121225000</bookid>
+    <booksname>重构大数据统计</booksname>
+  </book>
+  <book>
+    <bookid>9789861992792</bookid>
+    <booksname>AWS雲端企業實戰聖經：Amazon Web Services改造企業IT體質</booksname>
+  </book>
+  <book>
+    <bookid>9789864341900</bookid>
+    <booksname>WordPress+AWS 架設企業級雲端網站</booksname>
+  </book>
+  <book>
+    <bookid>9787302479642</bookid>
+    <booksname>亚马逊AWS云基础与实战</booksname>
+  </book>
+  <book>
+    <bookid>9787111579946</bookid>
+    <booksname>AWS Lambda实战:开发事件驱动的无服务器应用程序</booksname>
+  </book>
+  <book>
+    <bookid>9787121297267</bookid>
+    <booksname>SRE：Google 運維解密</booksname>
+  </book>
+</books>
