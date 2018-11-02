@@ -84,4 +84,12 @@
     <bookid>9781849517461</bookid>
     <booksname>OpenNebula 3 Cloud Computing</booksname>
   </book>
+  <book>
+    <bookid>9789863794233</bookid>
+    <booksname>DRBD權威指南：使用Corosync+Heartbeat技術建構RAID</booksname>
+  </book>
+  <book>
+    <bookid>9787302324614</bookid>
+    <booksname>DRBD權威指南：基於Corosync + Heartbeat技術構建網絡RAID</booksname>
+  </book>
 </books>
