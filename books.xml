@@ -92,4 +92,8 @@
     <bookid>9787302324614</bookid>
     <booksname>DRBD權威指南：基於Corosync + Heartbeat技術構建網絡RAID</booksname>
   </book>
+  <book>
+    <bookid>9789863792338</bookid>
+    <booksname>第一名的電腦主從熱備，Corosync及Heartbeat的DRBD實作</booksname>
+  </book>
 </books>
