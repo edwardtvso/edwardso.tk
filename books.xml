@@ -76,4 +76,12 @@
     <bookid>9781783280070</bookid>
     <booksname>Getting Started with oVirt 3.3</booksname>
   </book>
+  <book>
+    <bookid>9783744896412</bookid>
+    <booksname>Der Vyos-Praktiker</booksname>
+  </book>
+  <book>
+    <bookid>9781849517461</bookid>
+    <booksname>OpenNebula 3 Cloud Computing</booksname>
+  </book>
 </books>
